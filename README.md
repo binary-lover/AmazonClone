@@ -4,3 +4,8 @@
 # Footer:
 ![2](https://github.com/binary-lover/AmazonClone/assets/95335243/77dd3986-9f66-4eb9-99c0-6cfe2ccaecbf)
 
+
+
+# live Demo:
+# https://binary-lover.github.io/AmazonClone/ 
+
